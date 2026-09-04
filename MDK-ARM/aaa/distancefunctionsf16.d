@@ -1,0 +1,32 @@
+aaa/distancefunctionsf16.o: \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\DistanceFunctionsF16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_braycurtis_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\PrivateInclude\arm_compiler_specific.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\distance_functions_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\limits.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_memory.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\none.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\utils.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\statistics_functions_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\basic_math_functions_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\fast_math_functions_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\fast_math_functions.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\basic_math_functions.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_canberra_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_chebyshev_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_cityblock_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_correlation_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_cosine_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_euclidean_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_jensenshannon_distance_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\DistanceFunctions\arm_minkowski_distance_f16.c

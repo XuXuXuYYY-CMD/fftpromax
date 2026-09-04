@@ -1,0 +1,28 @@
+aaa/supportfunctionsf16.o: \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\SupportFunctionsF16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_copy_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\PrivateInclude\arm_compiler_specific.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\support_functions_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types_f16.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\limits.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_memory.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\none.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\utils.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_fill_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_f16_to_q15.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_f16_to_float.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_f16_to_f64.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_f64_to_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_q15_to_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_float_to_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_weighted_average_f16.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SupportFunctions\arm_barycenter_f16.c

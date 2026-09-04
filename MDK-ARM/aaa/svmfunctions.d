@@ -1,0 +1,26 @@
+aaa/svmfunctions.o: \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\SVMFunctions.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_linear_init_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\PrivateInclude\arm_compiler_specific.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\svm_functions.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_types.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\limits.h \
+  ..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  ..\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\arm_compat.h \
+  C:\Keil5\Core\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\arm_math_memory.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\none.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\utils.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Include\dsp\svm_defines.h \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_linear_predict_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_polynomial_init_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_polynomial_predict_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_rbf_init_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_rbf_predict_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_sigmoid_init_f32.c \
+  C:\Keil5\Pack\ARM\CMSIS-DSP\1.17.0\Source\SVMFunctions\arm_svm_sigmoid_predict_f32.c
